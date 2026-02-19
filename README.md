@@ -1,1 +1,7 @@
-# backup_script_0219
+# Backup Script
+
+Papka backup nusxa yaratadi.
+
+## Run
+python main.py
+
